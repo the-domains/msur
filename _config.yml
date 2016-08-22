@@ -1,0 +1,14 @@
+layout_spectrum: 0.3940254233311862
+typography_spectrum: 0.1819321874063462
+color:
+  brandStrength: 0.3160856571048498
+  lightness: 0.8021922507323325
+  saturation: 0.4835613153409213
+  rhythmicContrast: 0.6456872774288058
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+name: msur
